@@ -1,0 +1,25 @@
+{
+  "name": "generative-art-opensource",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HashLips/generative-art-opensource.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HashLips/generative-art-opensource/issues"
+  },
+  "homepage": "https://github.com/HashLips/generative-art-opensource#readme",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.23",
+    "all": "^0.0.0",
+    "canvas": "^2.8.0",
+    "prettier": "^2.4.0"
+  }
+}
